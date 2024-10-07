@@ -1,6 +1,6 @@
 ## Hola! Mi nombre  es Rogelio Cortez
 
-#Quien soy?
+# Quien soy?
 Soy un Ingeniero en Comunicaciones y Electronica especializado en el area de Ciencia de datos.
 
 Soy un apasionado en la tecnologia desde que estaba en el colegio y ahora que estoy en este mundo en donde la tecnologia forma  
@@ -9,7 +9,7 @@ parte importante en nuestras vidas , realmente me apasiona el seguir aprendiendo
 Me incopore al ambiente laboral de la industria de IT desd el año 2020 como desarrollador java.
 
 
-Que tecnologias uso?
+# Que tecnologias uso?
 
 Durante mis años laborando e utilizado diferentes recnologias en el area de desarrollo , metodologias de gestion y despliegue.
 * Python
