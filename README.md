@@ -34,7 +34,8 @@ Durante mis años laborando e utilizado diferentes recnologias en el area de des
 
 ## Repositorios
 
-<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-  <a href="[https://github.com/usuario/nombre-del-repositorio-frontend](https://github.com/Gustavocoello/PF_Google_Yelp/tree/main)]">Google_Project</a><br>
-  <a href="[https://github.com/RogerCortezRosas/ML_Sistema_Recomendacion_Peliculas]">Sistema de Recomendacion</a>
-</div>
+
+| Repositorio | Enlace |
+|-------------|--------|
+| Google_Project    | [Google_Project](https://github.com/usuario/nombre-del-repositorio-frontend](https://github.com/Gustavocoello/PF_Google_Yelp/tree/main) |
+| Sistema de Recomendacion     | [Sistema de Recomendacion]([https://github.com/usuario/nombre-del-repositorio-backend](https://github.com/RogerCortezRosas/ML_Sistema_Recomendacion_Peliculas))   |
