@@ -37,5 +37,5 @@ Durante mis años laborando e utilizado diferentes recnologias en el area de des
 
 | Repositorio | Enlace |
 |-------------|--------|
-| Google_Project    | [Google_Project](https://github.com/usuario/nombre-del-repositorio-frontend](https://github.com/Gustavocoello/PF_Google_Yelp/tree/main) |
-| Sistema de Recomendacion     | [Sistema de Recomendacion]([https://github.com/usuario/nombre-del-repositorio-backend](https://github.com/RogerCortezRosas/ML_Sistema_Recomendacion_Peliculas))   |
+| Google_Project    | (https://github.com/usuario/nombre-del-repositorio-frontend](https://github.com/Gustavocoello/PF_Google_Yelp/tree/main) |
+| Sistema de Recomendacion     | (https://github.com/usuario/nombre-del-repositorio-backend](https://github.com/RogerCortezRosas/ML_Sistema_Recomendacion_Peliculas)   |
